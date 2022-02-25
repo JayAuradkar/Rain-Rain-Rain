@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(red, blue);
+}
+#Data_button{
+    float: right;
+    margin-right: 20;
+   
+}
+canvas{
+    border-width: 2px;
+    border-style: outset;
+    border-color: black;
+}
+
+#DATA{
+    position: fixed;
+    bottom: 21px;
+    float: right;
+    width: 100%;
+}
